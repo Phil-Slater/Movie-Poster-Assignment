@@ -1,0 +1,14 @@
+body {
+    background-color: lightgray;
+}
+
+#moviesDiv {
+    display: flex;
+    /*flex-direction: row;*/
+    flex-wrap: wrap;
+    padding-bottom: 5%;
+}
+
+#moviesDiv img {
+    width: 60%;
+}
